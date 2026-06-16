@@ -1,0 +1,23 @@
+[
+    {
+    "id": 1,
+    "name": "Body Splash Natura 01",
+    "desc": "Cheiro suave, fixa durante horas, preço mediano.",
+    "value": 250.00,
+    "image": "/01.jpg"
+},
+    {
+    "id": 2,
+    "name": "Body Splash Ciclo 02",
+    "desc": "Cheiro doce, fixação um pouco menor comparado aos outros, porém ótimo custo benefício.",
+    "value": 100.00,
+    "image": "/02.jpg"
+},
+    {
+    "id": 3,
+    "name": "Body Splash Vitória Secrets 03",
+    "desc": "Cheiro floral, colônia importada e por conta disso preço acima da média",
+    "value": 500.00,
+    "image": "/03.jpg"
+}
+]
